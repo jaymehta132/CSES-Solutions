@@ -18,7 +18,8 @@ The CSES Problem Set consists of a variety of algorithmic challenges ranging fro
 ## Structure
 
 The repository is organized into folders based on the categories of problems in the CSES Problem Set. Each folder contains the respective solutions for the problems in that category.
-
+```
+.
 ├── Introductory Problems
 │ ├── ReadMe.md
 │ ├── ...
@@ -35,6 +36,7 @@ The repository is organized into folders based on the categories of problems in 
 │ ├── ...
 │ └── ...
 └── ...
+```
 
 Each Solution file is named according to the problem name.
 
