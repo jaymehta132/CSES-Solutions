@@ -8,9 +8,8 @@ Welcome to my solutions for the [CSES Problem Set](https://cses.fi/problemset/).
 - [Structure](#structure)
 - [Languages Used](#languages-used)
 - [Solutions](#solutions)
-- [How to Use](#how-to-use)
+- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
