@@ -10,4 +10,5 @@
 - `Minimising-Coins`
 - `Money-Sums`
 - `Rectangle-Cutting`
+- `Removal-Game`
 - `Removing-Digits`

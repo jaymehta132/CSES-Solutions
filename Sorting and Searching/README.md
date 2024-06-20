@@ -12,8 +12,10 @@
 - `Maximum-Subarray-Sum`
 - `Missing-Coin-Sum`
 - `Movie-Festival`
+- `Movie-Festival_II`
 - `Nearest-Smaller-Values`
 - `Nested-Ranges-Check`
+- `Nested-Ranges-Count`
 - `Playlist`
 - `Reading-Books`
 - `Restaurant-Customers`
