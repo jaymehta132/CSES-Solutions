@@ -54,7 +54,7 @@ Here is a list of the problem categories and their corresponding solutions:
 - **Sorting and Searching**
 - **Dynamic Programming**
 - **Graph Algorithms**
-- **Range Queries** (solutions for this haven't been added yet)
+- **Range Queries** 
 - **Tree Algorithms**
 - **Mathematics** (solutions for this haven't been added yet)
 - **String Algorithms** (solutions for this haven't been added yet)
