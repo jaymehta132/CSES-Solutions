@@ -2,4 +2,4 @@
 
 - `Forest-Queries`
 - `Range-XOR-Queries`
-- `Static Range Sum Queries`
+- `Static-Range-Sum-Queries`
